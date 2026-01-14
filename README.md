@@ -38,6 +38,8 @@ package.json
 postcss.config.mjs
 tsconfig.json
 
+<img width="995" height="863" alt="image" src="https://github.com/user-attachments/assets/11c803be-4cec-4b35-ad95-cbe6d4cf2b15" />
+
 
 AUTHOR - Mayank Kumar Acharya
 GitHub: https://github.com/Mayank-Acharya
