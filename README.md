@@ -38,3 +38,7 @@ package.json
 postcss.config.mjs
 tsconfig.json
 
+
+AUTHOR - Mayank Kumar Acharya
+GitHub: https://github.com/Mayank-Acharya
+Email - mayankacharya074518@gmail.com
